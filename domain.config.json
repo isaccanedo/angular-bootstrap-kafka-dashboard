@@ -1,0 +1,109 @@
+{
+  "domains": [
+    {
+      "id": 1,
+      "name": "Store Location",
+      "active": true,
+      "updated": -1,
+      "config": "conf/store_locations.dev.conf"
+    },
+    {
+      "id": 2,
+      "name": "Product",
+      "active": false,
+      "updated": -1,
+      "config": "conf/product_updates.dev.conf"
+    },
+    {
+      "id": 3,
+      "name": "Product Range",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 4,
+      "name": "Share Of Wallet",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 5,
+      "name": "Purchases",
+      "active": false,
+      "updated": -1,
+      "config": "conf/transaction_updates.dev.conf"
+    },
+    {
+      "id": 6,
+      "name": "Customer Profile",
+      "active": false,
+      "updated": -1,
+      "config": "conf/uvc_suppression_delta.dev.conf"
+    },
+    {
+      "id": 7,
+      "name": "Nectar",
+      "active": false,
+      "updated": -1,
+      "config": "conf/uvc_nectar_delta.dev.conf"
+    },
+    {
+      "id": 8,
+      "name": "Pricing and Promotions",
+      "active": false,
+      "updated": -1,
+      "config": "conf/pricing_updates.dev.conf"
+    },
+    {
+      "id": 9,
+      "name": "Offers",
+      "active": false,
+      "updated": -1,
+      "config": "conf/promotion_updates.dev.conf"
+    },
+    {
+      "id": 10,
+      "name": "Shrink and Waste",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 11,
+      "name": "Response",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 12,
+      "name": "Coupon",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 13,
+      "name": "Campaign",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 14,
+      "name": "GOL",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    },
+    {
+      "id": 15,
+      "name": "Planograms",
+      "active": false,
+      "updated": -1,
+      "config": ""
+    }
+  ]
+}

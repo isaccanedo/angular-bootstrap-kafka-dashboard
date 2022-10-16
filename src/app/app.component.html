@@ -1,0 +1,75 @@
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#"><img width="159" height="29" src="../assets/img/logo-scaled.png"></a>
+        <span class="navbar-brand-text" href="#">JSConnect Explorer</span>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+          <li><a href="#">Dashboard</a></li>
+          <li><a href="#">Settings</a></li>
+          <li><a href="#">Profile</a></li>
+          <li><a href="#">Help</a></li>
+        </ul>
+        <span class="navbar-form navbar-right">
+          <input type="text" class="form-control" placeholder="Search..." [(ngModel)]="filterargs">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </span>
+
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3 col-md-2 sidebar">
+
+        <ul class="nav nav-sidebar">
+          <li [routerLinkActive]="['active']"><a routerLink="/dashboard" routerLinkActive="active"><i class="fa fa-rss fa-3" aria-hidden="true"></i> Domains</a></li>
+          <li [routerLinkActive]="['active']"><a routerLink="/dashboard-pipelines" routerLinkActive="active"><i class="fa fa-road fa-3" aria-hidden="true"></i> Pipelines</a></li>
+          <li [routerLinkActive]="['active']"><a routerLink="/jobs" routerLinkActive="active"><i class="fa fa-cogs fa-3" aria-hidden="true"></i> Jobs</a></li>
+          <li [routerLinkActive]="['active']"><a routerLink="/sources" routerLinkActive="active"><i class="fa fa-search fa-3" aria-hidden="true"></i> Sources</a></li>
+          <li [routerLinkActive]="['active']"><a routerLink="/settings" routerLinkActive="active"><i class="fa fa-sliders fa-3" aria-hidden="true"></i> Settings</a></li>
+        </ul>
+
+
+        TODO:  <br>
+        - Add square tab button left hand nav
+        - Add collapsible burger menu http://codepen.io/oknoblich/pen/klnjw or http://wrapbootstrap.com/preview/WB0R5L90S  - show icons in collasped
+        - Search field to filter out the domain name.
+
+<!--
+        <div class="list-group">
+          <a href="#" class="list-group-item active text-center btn-square">
+            <i class="fa fa-rss fa-3" aria-hidden="true"></i><br/>Live status
+          </a>
+          <a href="#" class="list-group-item text-center btn-square">
+            <h4 class="glyphicon glyphicon-road"></h4><br/>Pipelines
+          </a>
+          <a href="#" class="list-group-item text-center btn-square">
+            <i class="fa fa-cogs fa-3" aria-hidden="true"></i><br/>Jobs
+          </a>
+          <a href="#" class="list-group-item text-center btn-square">
+            <i class="fa fa-search fa-3" aria-hidden="true"></i><br/>Find sources
+          </a>
+          <a href="#" class="list-group-item text-center btn-square">
+            <i class="fa fa-sliders fa-3" aria-hidden="true"></i><br/>Settings
+          </a>
+        </div>
+-->
+
+      </div>
+      <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        <router-outlet></router-outlet>
+      </div>
+    </div>
+
+
+  </div>
+

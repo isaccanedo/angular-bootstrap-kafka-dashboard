@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><POSLog xmlns="http://www.nrf-arts.org/IXRetail/namespace/" xmlns:r10Ex="http://www.Retalix.com/Extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FixVersion="1" MajorVersion="6" MinorVersion="0">
+  <Transaction FixVersion="1" MajorVersion="6" MinorVersion="0">
+    <BusinessUnit>
+      <UnitID Name="9104 STORE">9104</UnitID>
+    </BusinessUnit>
+    <WorkstationID TypeCode="POS" WorkstationLocation="19">107</WorkstationID>
+    <SequenceNumber>649</SequenceNumber>
+    <TransactionID>1WFDLYRTR2</TransactionID>
+    <OperatorID OperatorName="6cb707c1450314efb6569bd1cd3bc099a7debc146e17ebb7f29eb6fe1d4be1bc" OperatorType="Cashier" WorkerID="2491f5ad4c1314261bffdbb4f109f144a0061559c22a5aa70f2a05b44a18d23a">9104-9001</OperatorID>
+    <ReceiptImage r10Ex:ReceiptFormat="RDR" r10Ex:ReceiptKind="MainReceipt" r10Ex:ReceiptNotPrinted="False">
+      <ReceiptLine>&lt;OPOSPrint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;Documents NumOfDocuments="1" Device="IBM" CodePage="437"&gt;&lt;Document CodePage="437"&gt;&lt;PrintSection Layout="Portrait" SectionID="1"&gt;&lt;PrintCommand Command="PrintStoredBitmap" CmdData="1" /&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="                 STORE                  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="                Not Used                "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="      Sainsbury's Supermarkets Ltd      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="       33 Holborn London EC1N 2HT       "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="          www.sainsburys.co.uk          "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="        Vat Number : 660 4548 36        "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="Reprint" /&gt;&lt;PrintSection Layout="Portrait" SectionID="2"&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   0"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="BALANCE DUE         "&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text="     £0.00"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="********************"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="* "&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;Text Text="VOID TRANSACTION"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;Text Text=" *"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="********************"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="C"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="9001  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="#"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="649 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 13:52:48 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 23AUG2016"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="            "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="S"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="9104 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="R"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="107"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="Thank you for your visit. Please let us"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="know how we did at tellsainsburys.co.uk"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="You can live well for less than you"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="thought at Sainsbury's, based on price"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="perception data. For more information"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="go to sainsburys.co.uk/livewellforless"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="FeedAndCut"&gt;&lt;PrintCommand Command="FeedPaper" CmdData="6" /&gt;&lt;PrintCommand Command="CutPaper" CmdData="50" /&gt;&lt;PrintCommand Command="FeedPaper" CmdData="1" /&gt;&lt;/PrintSection&gt;&lt;/Document&gt;&lt;/Documents&gt;&lt;/OPOSPrint&gt;</ReceiptLine>
+    </ReceiptImage>
+    <CustomerOrderTransaction TransactionStatus="Voided" r10Ex:VoidReasonCodeFlag="AutoVoid" r10Ex:VoidedFlag="true">
+      <Total>0</Total>
+      <Total TotalType="TransactionNetAmount">0</Total>
+      <Total TotalType="TransactionPurchaseQuantity">0</Total>
+      <Total TotalType="TransactionPurchaseQuantity" TypeCode="Return">0</Total>
+      <Total TotalType="X:TransactionTaxIncluded">0</Total>
+      <Total TotalType="X:TransactionTaxSurcharge">0</Total>
+      <Total TotalType="X:TransactionTaxFee">0</Total>
+      <Total TotalType="X:ItemTaxFee">0</Total>
+      <Total TotalType="TransactionTotalSavings">0</Total>
+      <Total TotalType="TransactionGrandAmount">0</Total>
+      <Total TotalType="X:TransactionTotalVoidAmount">0</Total>
+      <Total TotalType="X:TransactionTotalVoidCount">0</Total>
+      <Total TotalType="X:TransactionTotalReturnAmount">0</Total>
+      <Total TotalType="TransactionTaxExemptAmount">0</Total>
+      <Total TotalType="TransactionTenderApplied">0</Total>
+      <Total TotalType="X:CashbackTotalAmount">0</Total>
+      <Total TotalType="X:TransactionMerchandiseAmount">0</Total>
+      <Total TotalType="X:TransactionNonMerchandiseAmount">0</Total>
+      <Total TotalType="X:NonResettableGrandTotal">1825.20</Total>
+      <Total TotalType="X:PreviousNonResettableGrandTotal">1569.41</Total>
+      <Customer r10Ex:EntryMethod="Scanned" r10Ex:IsAuthenticatedOffline="False">
+        <CustomerID>cee1d79bf1812556797528fbf97ca30d6e9c86832bab11cd77dc4f7465dfd1c6</CustomerID>
+        <Name/>
+        <r10Ex:CustomerExternalId>b894d9ad798cb491748b5393b9bb48a45883f3a622a0a4a98b3009e3fe87d217</r10Ex:CustomerExternalId>
+        <r10Ex:AccountNumber>307b0f8290b2c3048faa0188025f402462b7bd6c6627601ab9ae63037f494e9f</r10Ex:AccountNumber>
+        <r10Ex:IssueNumber>01</r10Ex:IssueNumber>
+        <r10Ex:Segment>Nectar</r10Ex:Segment>
+        <r10Ex:SequenceNumber>1</r10Ex:SequenceNumber>
+        <r10Ex:EndDateTime>2016-08-23T13:52:30.3644101+01:00</r10Ex:EndDateTime>
+        <r10Ex:ScanData>29917731029013</r10Ex:ScanData>
+      </Customer>
+      <Reason>TransactionAutoVoid</Reason>
+      <TransactionMeasures xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ItemRingTime>
+          <Current>57</Current>
+          <BusinessDayDateTotal>880</BusinessDayDateTotal>
+        </ItemRingTime>
+        <SecureTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </SecureTime>
+        <IdleTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>21</BusinessDayDateTotal>
+        </IdleTime>
+        <TenderTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </TenderTime>
+        <OtherTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>29</BusinessDayDateTotal>
+        </OtherTime>
+        <SignOnTime>
+          <Current>57</Current>
+          <BusinessDayDateTotal>930</BusinessDayDateTotal>
+        </SignOnTime>
+      </TransactionMeasures>
+    </CustomerOrderTransaction>
+    <BusinessDayDate>2016-08-23</BusinessDayDate>
+    <BeginDateTime>2016-08-23T13:52:30.1886221+01:00</BeginDateTime>
+    <EndDateTime>2016-08-23T13:52:48.1668515+01:00</EndDateTime>
+    <OperatorBypassApproval>
+      <SequenceNumber>1</SequenceNumber>
+      <ApproverID OperatorName="Cashier 9001" OperatorType="Cashier">9104-9001</ApproverID>
+      <Description>PointsUpdate</Description>
+      <BusinessRuleManager xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <BusinessRule RuleName="PointsUpdate">
+          <BusinessAction ActionType="ApprovalRequired" IsApproved="No" MessageName="PointUpdateRestricted"/>
+        </BusinessRule>
+      </BusinessRuleManager>
+    </OperatorBypassApproval>
+  </Transaction>
+</POSLog>

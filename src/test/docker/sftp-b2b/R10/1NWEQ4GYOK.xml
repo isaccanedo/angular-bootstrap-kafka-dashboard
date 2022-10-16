@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><POSLog xmlns="http://www.nrf-arts.org/IXRetail/namespace/" xmlns:r10Ex="http://www.Retalix.com/Extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FixVersion="1" MajorVersion="6" MinorVersion="0">
+  <Transaction FixVersion="1" MajorVersion="6" MinorVersion="0">
+    <BusinessUnit>
+      <UnitID Name="0206 TONBRIDGE">0206</UnitID>
+    </BusinessUnit>
+    <WorkstationID TypeCode="POS" WorkstationLocation="3">106</WorkstationID>
+    <SequenceNumber>319</SequenceNumber>
+    <TransactionID>1NWEQ4GYOK</TransactionID>
+    <OperatorID OperatorName="f03888793e8b383b1536f9e58dabc2ecbe35a2a86ddfa362e4199436421374e5" OperatorType="Cashier" WorkerID="d1073de5d8336945ab329393a06398faa3e80361000d4105dd2d844c804a72ea">0206-9106</OperatorID>
+    <ReceiptImage r10Ex:ReceiptFormat="RDR" r10Ex:ReceiptKind="MainReceipt" r10Ex:ReceiptNotPrinted="False">
+      <ReceiptLine>&lt;OPOSPrint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;Documents NumOfDocuments="1" Device="IBM" CodePage="437"&gt;&lt;Document CodePage="437"&gt;&lt;PrintSection Layout="Portrait" SectionID="1"&gt;&lt;PrintCommand Command="PrintStoredBitmap" CmdData="1" /&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="               TONBRIDGE                "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="              01732 359811              "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="      Sainsbury's Supermarkets Ltd      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="       33 Holborn London EC1N 2HT       "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="          www.sainsburys.co.uk          "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="        Vat Number : 660 4548 36        "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="Reprint" /&gt;&lt;PrintSection Layout="Portrait" SectionID="2"&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   0"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="BALANCE DUE         "&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text="     £0.00"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="********************"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="* "&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;Text Text="VOID TRANSACTION"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;Text Text=" *"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="********************"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="C"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="9106  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="#"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="319 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 09:00:47 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 23AUG2016"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="            "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="S"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="0206 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="R"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="106"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="Thank you for your visit. Please let us"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="know how we did at tellsainsburys.co.uk"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="You can live well for less than you"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="thought at Sainsbury's, based on price"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="perception data. For more information"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="go to sainsburys.co.uk/livewellforless"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="FeedAndCut"&gt;&lt;PrintCommand Command="FeedPaper" CmdData="6" /&gt;&lt;PrintCommand Command="CutPaper" CmdData="50" /&gt;&lt;PrintCommand Command="FeedPaper" CmdData="1" /&gt;&lt;/PrintSection&gt;&lt;/Document&gt;&lt;/Documents&gt;&lt;/OPOSPrint&gt;</ReceiptLine>
+    </ReceiptImage>
+    <CustomerOrderTransaction TransactionStatus="Voided" r10Ex:VoidReasonCodeFlag="AutoVoid" r10Ex:VoidedFlag="true">
+      <LineItem EntryMethod="Scanned" RefusalReason="X:PromotionCriteriaNotMet">
+        <Sale ItemType="X:Coupon">
+          <POSIdentity POSIDType="Coupon">
+            <POSItemID>43802005</POSItemID>
+          </POSIdentity>
+        </Sale>
+        <ScanData>43802005</ScanData>
+        <SequenceNumber>1</SequenceNumber>
+        <EndDateTime>2016-08-23T09:00:44.4982101+01:00</EndDateTime>
+        <OperatorBypassApproval>
+          <SequenceNumber>1</SequenceNumber>
+          <ApproverID/>
+          <Description>PromotionCriteriaNotMet</Description>
+          <BusinessRuleManager xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <BusinessRule RuleName="PromotionCriteriaNotMet">
+              <BusinessAction ActionType="Prohibit" IsApproved="No" MessageName="PromotionNotTriggered"/>
+            </BusinessRule>
+          </BusinessRuleManager>
+        </OperatorBypassApproval>
+        <Coupon xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <Amount>0.00</Amount>
+        </Coupon>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:00:47.5715703+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:00:47.5715703+01:00</EndDateTime>
+        <TotalKey xmlns="http://www.Retalix.com/Extensions" Type="SubTotal">
+          <Total TotalType="TransactionGrossAmount">0</Total>
+          <Total TotalType="TransactionNetAmount">0</Total>
+          <Total TotalType="TransactionPurchaseQuantity">0</Total>
+        </TotalKey>
+      </LineItem>
+      <Total>0</Total>
+      <Total TotalType="TransactionNetAmount">0</Total>
+      <Total TotalType="TransactionPurchaseQuantity">0</Total>
+      <Total TotalType="TransactionPurchaseQuantity" TypeCode="Return">0</Total>
+      <Total TotalType="X:TransactionTaxIncluded">0</Total>
+      <Total TotalType="X:TransactionTaxSurcharge">0</Total>
+      <Total TotalType="X:TransactionTaxFee">0</Total>
+      <Total TotalType="X:ItemTaxFee">0</Total>
+      <Total TotalType="TransactionTotalSavings">0</Total>
+      <Total TotalType="TransactionGrandAmount">0</Total>
+      <Total TotalType="X:TransactionTotalVoidAmount">0</Total>
+      <Total TotalType="X:TransactionTotalVoidCount">0</Total>
+      <Total TotalType="X:TransactionTotalReturnAmount">0</Total>
+      <Total TotalType="TransactionTaxExemptAmount">0</Total>
+      <Total TotalType="TransactionTenderApplied">0</Total>
+      <Total TotalType="X:CashbackTotalAmount">0</Total>
+      <Total TotalType="X:TransactionMerchandiseAmount">0</Total>
+      <Total TotalType="X:TransactionNonMerchandiseAmount">0</Total>
+      <Total TotalType="X:NonResettableGrandTotal">47727.31</Total>
+      <Total TotalType="X:PreviousNonResettableGrandTotal">47723.31</Total>
+      <Customer r10Ex:IsAuthenticatedOffline="False">
+        <Name/>
+      </Customer>
+      <Reason>TransactionAutoVoid</Reason>
+      <TransactionMeasures xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ItemRingTime>
+          <Current>11</Current>
+          <BusinessDayDateTotal>127</BusinessDayDateTotal>
+        </ItemRingTime>
+        <SecureTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </SecureTime>
+        <IdleTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>2</BusinessDayDateTotal>
+        </IdleTime>
+        <TenderTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </TenderTime>
+        <OtherTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>6</BusinessDayDateTotal>
+        </OtherTime>
+        <SignOnTime>
+          <Current>11</Current>
+          <BusinessDayDateTotal>135</BusinessDayDateTotal>
+        </SignOnTime>
+      </TransactionMeasures>
+    </CustomerOrderTransaction>
+    <BusinessDayDate>2016-08-23</BusinessDayDate>
+    <BeginDateTime>2016-08-23T09:00:44.3995735+01:00</BeginDateTime>
+    <EndDateTime>2016-08-23T09:00:47.5745001+01:00</EndDateTime>
+  </Transaction>
+</POSLog>

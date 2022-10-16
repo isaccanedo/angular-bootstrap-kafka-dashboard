@@ -1,0 +1,78 @@
+<!--
+<h2>My Pipelines</h2>
+<div>
+  <label>Hero name:</label> <input #pipelineName />
+  <button (click)="add(pipelineName.value); pipelineName.value=''">
+    Add
+  </button>
+</div>
+<ul class="pipelines">
+  <li *ngFor="let pipeline of pipelines" (click)="onSelect(pipeline)"
+      [class.selected]="pipeline === selectedPipeline">
+    <span class="badge">{{pipeline.id}}</span>
+    <span>{{pipeline.name}}</span>
+    <button class="delete"
+            (click)="delete(pipeline); $event.stopPropagation()">x</button>
+  </li>
+</ul>
+<div *ngIf="selectedPipeline">
+  <h2>
+    {{selectedPipeline.name | uppercase}} is my pipeline
+  </h2>
+  <button (click)="gotoDetail()">View Details</button>
+</div>
+-->
+
+
+<div class="container-fluid">
+
+  <div class="row bs-row" *ngFor="let pipeline of pipelines" [routerLink]="['/pipeline-detail', pipeline.id]">
+    <div class="col-sm-2 col-md-2">
+      <h3>{{pipeline.name}} <small></small></h3>
+    </div>
+
+    <div class="col-sm-6 col-md-6">
+      <div class="bs-wizard" style="border-bottom:0;">
+
+        <div class="col-xs-3 bs-wizard-step complete">
+          <div class="text-center bs-wizard-stepnum">Step 1</div>
+          <div class="progress"><div class="progress-bar"></div></div>
+          <a href="#" class="bs-wizard-dot"></a>
+          <div class="bs-wizard-info text-center">REST</div>
+        </div>
+
+        <div class="col-xs-3 bs-wizard-step complete"><!-- complete -->
+          <div class="text-center bs-wizard-stepnum">Step 2</div>
+          <div class="progress"><div class="progress-bar"></div></div>
+          <a href="#" class="bs-wizard-dot"></a>
+          <div class="bs-wizard-info text-center">KAFKA</div>
+        </div>
+
+        <div class="col-xs-3 bs-wizard-step active"><!-- complete -->
+          <div class="text-center bs-wizard-stepnum">Step 3</div>
+          <div class="progress"><div class="progress-bar"></div></div>
+          <a href="#" class="bs-wizard-dot"></a>
+          <div class="bs-wizard-info text-center">S3</div>
+        </div>
+
+        <div class="col-xs-3 bs-wizard-step disabled"><!-- active -->
+          <div class="text-center bs-wizard-stepnum">Step 4</div>
+          <div class="progress"><div class="progress-bar"></div></div>
+          <a href="#" class="bs-wizard-dot"></a>
+          <div class="bs-wizard-info text-center">EDIE</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-4 col-md-4">
+      <!-- Split button -->
+      <div class="bs-btn-group">
+        <a [routerLink]="['/pipeline-detail', pipeline.id]"  class="btn btn-primary"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> <strong>Edit</strong></a>
+        <a class="btn btn-danger" (click)="delete(pipeline); $event.stopPropagation()"><i class="fa fa-trash" aria-hidden="true"></i> <strong>Delete</strong></a>
+        <a class="btn btn-success"><i class="fa fa-play" aria-hidden="true"></i> <strong>Run</strong></a>
+      </div>
+    </div>
+
+  </div>
+
+</div>

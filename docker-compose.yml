@@ -1,0 +1,27 @@
+version: '2'
+services:
+  sftp:
+    build:
+      context: ./src/test/docker/sftp-b2b
+      args:
+        ftpuser: foo
+        ftppass: 123
+    ports:
+      - "23:22"
+  jms:
+    image: njmittet/alpine-activemq
+    ports:
+      - "61616:61616"
+      - "61614:61614"
+      - "61613:61613"
+      - "8161:8161"
+      - "5672:5672"
+      - "1883:1883"
+  kafka:
+    build: ./src/test/docker/kafka
+    image: sains/kafka
+    ports:
+      - "2181:2181"
+      - "9092:9092"
+      - "19092:19092"
+

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><POSLog xmlns="http://www.nrf-arts.org/IXRetail/namespace/" xmlns:r10Ex="http://www.Retalix.com/Extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FixVersion="1" MajorVersion="6" MinorVersion="0">
+  <Transaction FixVersion="1" MajorVersion="6" MinorVersion="0">
+    <BusinessUnit>
+      <UnitID Name="9104 STORE">9104</UnitID>
+    </BusinessUnit>
+    <WorkstationID TypeCode="X:SelfCheckOut" WorkstationLocation="17">61</WorkstationID>
+    <SequenceNumber>2778</SequenceNumber>
+    <TransactionID>1J57BVQ69Q</TransactionID>
+    <OperatorID OperatorName="78326376351297b83e0e07fe785b70d8cae5ed13fe8fa968f7cf6b9633fd83fa" OperatorType="X:SCOAttendant" WorkerID="e30cd5a1ec53afdc0a6519565f9ff860485c969bde1a9da993f4d4ae7efed420">9104-9061</OperatorID>
+    <ReceiptImage r10Ex:ReceiptFormat="RDR" r10Ex:ReceiptKind="MainReceipt" r10Ex:ReceiptNotPrinted="False">
+      <ReceiptLine>&lt;OPOSPrint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;Documents NumOfDocuments="1" Device="IBM" CodePage="437"&gt;&lt;Document CodePage="437"&gt;&lt;PrintSection Layout="Portrait" SectionID="1"&gt;&lt;PrintCommand Command="PrintStoredBitmap" CmdData="1" /&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="                 STORE                  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="                Not Used                "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="      Sainsbury's Supermarkets Ltd      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="       33 Holborn London EC1N 2HT       "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="          www.sainsburys.co.uk          "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="        Vat Number : 660 4548 36        "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="Reprint" /&gt;&lt;PrintSection Layout="Portrait" SectionID="2"&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="BASICS K/BNS WTR     "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      £0.30"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="BASICS K/BNS WTR     "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      £0.30"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   2"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="BALANCE DUE         "&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text="     £0.60"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="********************"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="* "&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;Text Text="VOID TRANSACTION"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;Text Text=" *"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="********************"&gt;&lt;PrintAttributes DoubleHeight="true" DoubleWidth="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="C"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="9061  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="#"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="2778"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 13:41:18 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 23AUG2016"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="            "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="S"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="9104 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="R"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="61 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="Thank you for your visit. Please let us"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="know how we did at tellsainsburys.co.uk"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="You can live well for less than you"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="thought at Sainsbury's, based on price"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="perception data. For more information"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="go to sainsburys.co.uk/livewellforless"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="FeedAndCut"&gt;&lt;PrintCommand Command="FeedPaper" CmdData="6" /&gt;&lt;PrintCommand Command="CutPaper" CmdData="50" /&gt;&lt;PrintCommand Command="FeedPaper" CmdData="1" /&gt;&lt;/PrintSection&gt;&lt;/Document&gt;&lt;/Documents&gt;&lt;/OPOSPrint&gt;</ReceiptLine>
+    </ReceiptImage>
+    <CustomerOrderTransaction TransactionStatus="Voided" r10Ex:VoidedFlag="true">
+      <LineItem EntryMethod="Scanned">
+        <Sale>
+          <POSIdentity>
+            <POSItemID>1316070</POSItemID>
+          </POSIdentity>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_8190@2_09_341@3_09_32">3_09_32</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">1316070</ItemID>
+          <Description r10Ex:Culture="en-GB">BASICS K/BNS WTR    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">BASICS KIDNEY BEAN/ WATER 400G</Description>
+          <RegularSalesUnitPrice Currency="GBP">0.3</RegularSalesUnitPrice>
+          <ActualSalesUnitPrice Currency="GBP">0.3</ActualSalesUnitPrice>
+          <ExtendedAmount Currency="GBP">0.3</ExtendedAmount>
+          <Quantity EntryMethod="Automatic" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <ConsumableGroup xmlns="http://www.Retalix.com/Extensions">
+            <Type>Consumable</Type>
+            <ID>SalesGroup_SSL</ID>
+          </ConsumableGroup>
+        </Sale>
+        <ScanData>01316070</ScanData>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2016-08-23T13:32:23.2060293+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T13:32:23.2060293+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Scanned">
+        <Sale>
+          <POSIdentity>
+            <POSItemID>1316070</POSItemID>
+          </POSIdentity>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_8190@2_09_341@3_09_32">3_09_32</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">1316070</ItemID>
+          <Description r10Ex:Culture="en-GB">BASICS K/BNS WTR    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">BASICS KIDNEY BEAN/ WATER 400G</Description>
+          <RegularSalesUnitPrice Currency="GBP">0.3</RegularSalesUnitPrice>
+          <ActualSalesUnitPrice Currency="GBP">0.3</ActualSalesUnitPrice>
+          <ExtendedAmount Currency="GBP">0.3</ExtendedAmount>
+          <Quantity EntryMethod="Automatic" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <ConsumableGroup xmlns="http://www.Retalix.com/Extensions">
+            <Type>Consumable</Type>
+            <ID>SalesGroup_SSL</ID>
+          </ConsumableGroup>
+        </Sale>
+        <ScanData>01316070</ScanData>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2016-08-23T13:33:20.2482587+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T13:33:20.2482587+01:00</EndDateTime>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2016-08-23T13:33:32.8385859+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T13:33:32.8385859+01:00</EndDateTime>
+        <TotalKey xmlns="http://www.Retalix.com/Extensions" Type="SubTotal">
+          <Total TotalType="TransactionGrossAmount">0.60</Total>
+          <Total TotalType="TransactionNetAmount">0.60</Total>
+          <Total TotalType="TransactionPurchaseQuantity">2</Total>
+        </TotalKey>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442230</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:33:38.5741577+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>5</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>4</SequenceNumber>
+        <EndDateTime>2016-08-23T13:33:45.1369097+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442233</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:33:47.4231303+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>5</SequenceNumber>
+        <EndDateTime>2016-08-23T13:33:49.6829827+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442235</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:33:53.3491391+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>6</SequenceNumber>
+        <EndDateTime>2016-08-23T13:33:56.1783493+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442237</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:33:59.6189111+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>7</SequenceNumber>
+        <EndDateTime>2016-08-23T13:34:01.8357931+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442239</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:34:04.0995519+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>8</SequenceNumber>
+        <EndDateTime>2016-08-23T13:34:06.3545213+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442240</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:34:08.4522581+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>9</SequenceNumber>
+        <EndDateTime>2016-08-23T13:34:10.6710933+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442242</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:34:12.9211797+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>10</SequenceNumber>
+        <EndDateTime>2016-08-23T13:34:15.1488043+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442244</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:34:18.6840963+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>33</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>11</SequenceNumber>
+        <EndDateTime>2016-08-23T13:34:53.1014335+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442256</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:34:55.6913767+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>12</SequenceNumber>
+        <EndDateTime>2016-08-23T13:34:57.9912697+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442261</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:35:09.6997271+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>13</SequenceNumber>
+        <EndDateTime>2016-08-23T13:35:11.9244219+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442264</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:35:18.1600129+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>14</SequenceNumber>
+        <EndDateTime>2016-08-23T13:35:20.4765081+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442265</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:35:22.6504197+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>15</SequenceNumber>
+        <EndDateTime>2016-08-23T13:35:24.8907401+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442270</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:35:36.7349449+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>16</SequenceNumber>
+        <EndDateTime>2016-08-23T13:35:39.0055399+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442271</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:35:41.2468369+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>2</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>17</SequenceNumber>
+        <EndDateTime>2016-08-23T13:35:44.7303691+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442274</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:35:49.9385769+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>12</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>18</SequenceNumber>
+        <EndDateTime>2016-08-23T13:36:03.9469273+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442280</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:36:06.5681217+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>14</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>19</SequenceNumber>
+        <EndDateTime>2016-08-23T13:36:22.2347389+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442286</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:36:24.7475307+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>5</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>20</SequenceNumber>
+        <EndDateTime>2016-08-23T13:36:31.8522957+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442289</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:36:35.5125925+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>21</SequenceNumber>
+        <EndDateTime>2016-08-23T13:36:38.2529321+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442291</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:36:41.7169323+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>16</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>22</SequenceNumber>
+        <EndDateTime>2016-08-23T13:36:59.4461287+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442309</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:37:33.7599463+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>23</SequenceNumber>
+        <EndDateTime>2016-08-23T13:37:36.1008565+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442314</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:37:49.9734595+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>1</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>05</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>24</SequenceNumber>
+        <EndDateTime>2016-08-23T13:37:52.2372183+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed" RefusalTypeCode="X:NotAuthorizedByEPS">
+        <Tender TenderType="CreditDebit">
+          <Amount Currency="GBP">0</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Authorization SignatureRequiredFlag="false" VerifiedByPINFlag="false">
+            <RequestedAmount Currency="GBP">0.60</RequestedAmount>
+            <AuthorizationCode>Decline</AuthorizationCode>
+            <ReferenceNumber>442325</ReferenceNumber>
+            <AuthorizationDateTime>2016-08-23T13:38:23.6026805+01:00</AuthorizationDateTime>
+            <ReceiptText/>
+            <DiagnosticCode>DECLINE</DiagnosticCode>
+            <r10Ex:CardId>EFT_General</r10Ex:CardId>
+            <r10Ex:AuthorizationType>Offline</r10Ex:AuthorizationType>
+            <r10Ex:TotalWaitTime>60</r10Ex:TotalWaitTime>
+            <r10Ex:NetworkTime>0</r10Ex:NetworkTime>
+            <r10Ex:TenderReferenceId>1</r10Ex:TenderReferenceId>
+            <r10Ex:AuthorizationResponseCode>30</r10Ex:AuthorizationResponseCode>
+            <r10Ex:IsToken>false</r10Ex:IsToken>
+          </Authorization>
+          <CreditDebit>
+            <PrimaryAccountNumber/>
+          </CreditDebit>
+          <TenderID>3</TenderID>
+          <r10Ex:TenderDescription>EFT</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>25</SequenceNumber>
+        <EndDateTime>2016-08-23T13:39:24.3559899+01:00</EndDateTime>
+      </LineItem>
+      <Total>0</Total>
+      <Total TotalType="TransactionNetAmount">0</Total>
+      <Total TotalType="TransactionPurchaseQuantity">0</Total>
+      <Total TotalType="TransactionPurchaseQuantity" TypeCode="Return">0</Total>
+      <Total TotalType="X:TransactionTaxIncluded">0</Total>
+      <Total TotalType="X:TransactionTaxSurcharge">0</Total>
+      <Total TotalType="X:TransactionTaxFee">0</Total>
+      <Total TotalType="X:ItemTaxFee">0</Total>
+      <Total TotalType="TransactionTotalSavings">0</Total>
+      <Total TotalType="TransactionGrandAmount">0</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionTotalVoidAmount">0.6</Total>
+      <Total TotalType="X:TransactionTotalVoidCount">2</Total>
+      <Total TotalType="X:TransactionTotalReturnAmount">0</Total>
+      <Total TotalType="TransactionTaxExemptAmount">0</Total>
+      <Total TotalType="TransactionTenderApplied">0</Total>
+      <Total TotalType="X:CashbackTotalAmount">0</Total>
+      <Total TotalType="X:TransactionMerchandiseAmount">0</Total>
+      <Total TotalType="X:TransactionNonMerchandiseAmount">0</Total>
+      <Total TotalType="X:NonResettableGrandTotal">2885.29</Total>
+      <Total TotalType="X:PreviousNonResettableGrandTotal">2833.55</Total>
+      <Customer r10Ex:IsAuthenticatedOffline="False">
+        <Name/>
+      </Customer>
+      <TransactionMeasures xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ItemRingTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </ItemRingTime>
+        <SecureTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </SecureTime>
+        <IdleTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </IdleTime>
+        <TenderTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </TenderTime>
+        <OtherTime>
+          <Current>3</Current>
+          <BusinessDayDateTotal>3</BusinessDayDateTotal>
+        </OtherTime>
+        <SignOnTime>
+          <Current>3</Current>
+          <BusinessDayDateTotal>3</BusinessDayDateTotal>
+        </SignOnTime>
+      </TransactionMeasures>
+    </CustomerOrderTransaction>
+    <BusinessDayDate>2016-08-23</BusinessDayDate>
+    <BeginDateTime>2016-08-23T13:32:23.1171587+01:00</BeginDateTime>
+    <EndDateTime>2016-08-23T13:41:18.7324521+01:00</EndDateTime>
+    <OperatorBypassApproval>
+      <SequenceNumber>1</SequenceNumber>
+      <ApproverID/>
+      <Description>Confirm Transaction Void</Description>
+      <BusinessRuleManager xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <BusinessRule RuleName="Confirm Transaction Void">
+          <BusinessAction ActionType="ConfirmationRequired" IsApproved="Yes" MessageName="VoidTransaction"/>
+        </BusinessRule>
+      </BusinessRuleManager>
+    </OperatorBypassApproval>
+  </Transaction>
+</POSLog>

@@ -1,0 +1,26 @@
+<div *ngIf="pipeline">
+  <h2>Details: {{pipeline.name}}</h2>
+  <div>
+    <label>id: </label>{{pipeline.id}}</div>
+  <div>
+    <label>name: </label>
+    <input [(ngModel)]="pipeline.name" placeholder="name" />
+  </div>
+  <div>
+    <label>active: </label>
+    <input [(ngModel)]="pipeline.active" placeholder="false" />
+  </div>
+  <div>
+    <label>last updated: </label>
+    <input [(ngModel)]="pipeline.updated" placeholder="" />
+  </div>
+  <button (click)="goBack()">Back</button>
+  <button (click)="save()">Save</button>
+
+
+
+  TODO: <br>
+  - Read from conf file for this domain. <br>
+  - Display JSON elements as input boxes from the conf file here.<br>
+  - Allow editing and save option<br>
+</div>

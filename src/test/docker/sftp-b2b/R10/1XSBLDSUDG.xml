@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><POSLog xmlns="http://www.nrf-arts.org/IXRetail/namespace/" xmlns:r10Ex="http://www.Retalix.com/Extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FixVersion="1" MajorVersion="6" MinorVersion="0">
+  <Transaction FixVersion="1" MajorVersion="6" MinorVersion="0">
+    <BusinessUnit>
+      <UnitID Name="0206 TONBRIDGE">0206</UnitID>
+    </BusinessUnit>
+    <WorkstationID TypeCode="X:SelfCheckOut" WorkstationLocation="17">61</WorkstationID>
+    <SequenceNumber>6128</SequenceNumber>
+    <TransactionID>1XSBLDSUDG</TransactionID>
+    <OperatorID OperatorName="0bb6c1edd8647488e98dee2989d9c31a6f016fbf9ee5e48391970ffa63aad6ac" OperatorType="X:SCOAttendant" WorkerID="96494c2ec2ab73ef4cf9344c0d97c81d982e59d96cdeb65af5cb9b5426feb79f">0206-9061</OperatorID>
+    <ReceiptImage r10Ex:ReceiptFormat="RDR" r10Ex:ReceiptKind="MainReceipt" r10Ex:ReceiptNotPrinted="False">
+      <ReceiptLine>&lt;OPOSPrint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;Documents NumOfDocuments="1" Device="IBM" CodePage="437"&gt;&lt;Document CodePage="437"&gt;&lt;PrintSection Layout="Portrait" SectionID="1"&gt;&lt;PrintCommand Command="PrintStoredBitmap" CmdData="1" /&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="               TONBRIDGE                "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="              01732 359811              "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="      Sainsbury's Supermarkets Ltd      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="       33 Holborn London EC1N 2HT       "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="          www.sainsburys.co.uk          "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="        Vat Number : 660 4548 36        "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="Reprint" /&gt;&lt;PrintSection Layout="Portrait" SectionID="2"&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="SEED/HONEY BREAD     "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      £1.99"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="SEED/HONEY BREAD     "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      £1.99"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="SEED/HONEY BREAD     "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      £1.99"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="SEED/HONEY BREAD     "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      £1.99"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="4  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="Sub Total    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="     £7.96"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="ITEM CANCELLED          "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="SEED/HONEY BREAD        "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="  -£1.99"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="ITEM CANCELLED          "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="SEED/HONEY BREAD        "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="  -£1.99"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   2"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text=" "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="BALANCE DUE         "&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;Text Text="     £3.98"&gt;&lt;PrintAttributes Bold="true" /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="VOUCHER             "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="     £3.98"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="CHANGE              "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="     £0.00"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="****************************************"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="WITH NECTAR YOU WOULD HAVE EARNED:      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="POINTS"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="                           3"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="      "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="REGISTER AT www.nectar.com              "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="****************************************"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;BarcodeObject ID="6290206061612800230816" BarcodeType="Code128" Height="100" Width="1" Align="Center" OutputOptions="All" /&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="6290206061612800230816"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="C"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="9061  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="  "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="#"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="6128"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="   "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 09:49:53 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text=" 23AUG2016"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text="            "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="S"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="0206 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="    "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="R"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;Text Text="61 "&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="Thank you for your visit. Please let us"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="know how we did at tellsainsburys.co.uk"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="You can live well for less than you"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="thought at Sainsbury's, based on price"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="perception data. For more information"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Center" CPL="42" /&gt;&lt;Text Text="go to sainsburys.co.uk/livewellforless"&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;TextObject OutputOptions="All"&gt;&lt;TextLine&gt;&lt;LinePrintAttributes Align="Left" CPL="42" /&gt;&lt;Text Text=""&gt;&lt;PrintAttributes /&gt;&lt;/Text&gt;&lt;/TextLine&gt;&lt;/TextObject&gt;&lt;/PrintSection&gt;&lt;PrintSection Layout="Portrait" SectionID="FeedAndCut"&gt;&lt;PrintCommand Command="FeedPaper" CmdData="6" /&gt;&lt;PrintCommand Command="CutPaper" CmdData="50" /&gt;&lt;PrintCommand Command="FeedPaper" CmdData="1" /&gt;&lt;/PrintSection&gt;&lt;/Document&gt;&lt;/Documents&gt;&lt;/OPOSPrint&gt;</ReceiptLine>
+    </ReceiptImage>
+    <RetailTransaction>
+      <LineItem EntryMethod="Keyed">
+        <Sale>
+          <POSIdentity>
+            <POSItemID>1296990</POSItemID>
+          </POSIdentity>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_5080@2_09_1540@3_09_353">3_09_353</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">99707</ItemID>
+          <Description r10Ex:Culture="en-GB">SEED/HONEY BREAD    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">JS SWEET SEED AND HONEY BREAD</Description>
+          <RegularSalesUnitPrice Currency="GBP">1.99</RegularSalesUnitPrice>
+          <ActualSalesUnitPrice Currency="GBP">1.99</ActualSalesUnitPrice>
+          <ExtendedAmount Currency="GBP">1.99</ExtendedAmount>
+          <Quantity EntryMethod="Automatic" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <Tax r10Ex:Imposition="A" r10Ex:Sign="A">
+            <SequenceNumber>1</SequenceNumber>
+            <TaxAuthority>VAT</TaxAuthority>
+            <TaxableAmount Currency="GBP" TaxIncludedInTaxableAmountFlag="true">1.99</TaxableAmount>
+            <Amount Currency="GBP">0.00</Amount>
+            <Percent>0.0000</Percent>
+            <TaxRuleID>2</TaxRuleID>
+            <TaxGroupID>1</TaxGroupID>
+          </Tax>
+          <ConsumableGroup xmlns="http://www.Retalix.com/Extensions">
+            <Type>Consumable</Type>
+            <ID>SalesGroup_SSL</ID>
+          </ConsumableGroup>
+        </Sale>
+        <ScanData>99707</ScanData>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:48:57.5525035+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:48:57.5525035+01:00</EndDateTime>
+      </LineItem>
+      <LineItem EntryMethod="Keyed">
+        <Sale>
+          <POSIdentity>
+            <POSItemID>1296990</POSItemID>
+          </POSIdentity>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_5080@2_09_1540@3_09_353">3_09_353</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">99707</ItemID>
+          <Description r10Ex:Culture="en-GB">SEED/HONEY BREAD    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">JS SWEET SEED AND HONEY BREAD</Description>
+          <RegularSalesUnitPrice Currency="GBP">1.99</RegularSalesUnitPrice>
+          <ActualSalesUnitPrice Currency="GBP">1.99</ActualSalesUnitPrice>
+          <ExtendedAmount Currency="GBP">1.99</ExtendedAmount>
+          <Quantity EntryMethod="Automatic" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <ConsumableGroup xmlns="http://www.Retalix.com/Extensions">
+            <Type>Consumable</Type>
+            <ID>SalesGroup_SSL</ID>
+          </ConsumableGroup>
+        </Sale>
+        <ScanData>99707</ScanData>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:05.3082955+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:05.3082955+01:00</EndDateTime>
+        <OperatorBypassApproval>
+          <SequenceNumber>1</SequenceNumber>
+          <ApproverID/>
+          <Description>VoidItemConfirm</Description>
+          <BusinessRuleManager xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <BusinessRule RuleName="VoidItemConfirm">
+              <BusinessAction ActionType="ConfirmationRequired" IsApproved="Yes" MessageName="VoidItem"/>
+            </BusinessRule>
+          </BusinessRuleManager>
+        </OperatorBypassApproval>
+      </LineItem>
+      <LineItem EntryMethod="Keyed">
+        <Sale>
+          <POSIdentity>
+            <POSItemID>1296990</POSItemID>
+          </POSIdentity>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_5080@2_09_1540@3_09_353">3_09_353</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">99707</ItemID>
+          <Description r10Ex:Culture="en-GB">SEED/HONEY BREAD    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">JS SWEET SEED AND HONEY BREAD</Description>
+          <RegularSalesUnitPrice Currency="GBP">1.99</RegularSalesUnitPrice>
+          <ActualSalesUnitPrice Currency="GBP">1.99</ActualSalesUnitPrice>
+          <ExtendedAmount Currency="GBP">1.99</ExtendedAmount>
+          <Quantity EntryMethod="Automatic" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <ConsumableGroup xmlns="http://www.Retalix.com/Extensions">
+            <Type>Consumable</Type>
+            <ID>SalesGroup_SSL</ID>
+          </ConsumableGroup>
+        </Sale>
+        <ScanData>99707</ScanData>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:12.4213531+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:12.4213531+01:00</EndDateTime>
+        <OperatorBypassApproval>
+          <SequenceNumber>1</SequenceNumber>
+          <ApproverID/>
+          <Description>VoidItemConfirm</Description>
+          <BusinessRuleManager xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <BusinessRule RuleName="VoidItemConfirm">
+              <BusinessAction ActionType="ConfirmationRequired" IsApproved="Yes" MessageName="VoidItem"/>
+            </BusinessRule>
+          </BusinessRuleManager>
+        </OperatorBypassApproval>
+      </LineItem>
+      <LineItem EntryMethod="Keyed">
+        <Sale>
+          <POSIdentity>
+            <POSItemID>1296990</POSItemID>
+          </POSIdentity>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_5080@2_09_1540@3_09_353">3_09_353</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">99707</ItemID>
+          <Description r10Ex:Culture="en-GB">SEED/HONEY BREAD    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">JS SWEET SEED AND HONEY BREAD</Description>
+          <RegularSalesUnitPrice Currency="GBP">1.99</RegularSalesUnitPrice>
+          <ActualSalesUnitPrice Currency="GBP">1.99</ActualSalesUnitPrice>
+          <ExtendedAmount Currency="GBP">1.99</ExtendedAmount>
+          <Quantity EntryMethod="Automatic" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <Tax r10Ex:Imposition="A" r10Ex:Sign="A">
+            <SequenceNumber>1</SequenceNumber>
+            <TaxAuthority>VAT</TaxAuthority>
+            <TaxableAmount Currency="GBP" TaxIncludedInTaxableAmountFlag="true">1.99</TaxableAmount>
+            <Amount Currency="GBP">0.00</Amount>
+            <Percent>0.0000</Percent>
+            <TaxRuleID>2</TaxRuleID>
+            <TaxGroupID>1</TaxGroupID>
+          </Tax>
+          <ConsumableGroup xmlns="http://www.Retalix.com/Extensions">
+            <Type>Consumable</Type>
+            <ID>SalesGroup_SSL</ID>
+          </ConsumableGroup>
+        </Sale>
+        <ScanData>99707</ScanData>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:20.6489395+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:20.6489395+01:00</EndDateTime>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:27.9036331+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:27.9036331+01:00</EndDateTime>
+        <TotalKey xmlns="http://www.Retalix.com/Extensions" Type="SubTotal">
+          <Total TotalType="TransactionGrossAmount">7.96</Total>
+          <Total TotalType="TransactionNetAmount">7.96</Total>
+          <Total TotalType="TransactionPurchaseQuantity">4</Total>
+        </TotalKey>
+      </LineItem>
+      <LineItem CancelFlag="true" VoidFlag="true">
+        <Sale>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_5080@2_09_1540@3_09_353">3_09_353</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">99707</ItemID>
+          <POSIdentity>
+            <POSItemID>1296990</POSItemID>
+          </POSIdentity>
+          <Description r10Ex:Culture="en-GB">SEED/HONEY BREAD    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">JS SWEET SEED AND HONEY BREAD</Description>
+          <ExtendedAmount Currency="GBP">1.99</ExtendedAmount>
+          <Quantity EntryMethod="Scanned" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <ItemLink>2</ItemLink>
+        </Sale>
+        <ScanData>99707</ScanData>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:40.2708979+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:40.2708979+01:00</EndDateTime>
+      </LineItem>
+      <LineItem CancelFlag="true" VoidFlag="true">
+        <Sale>
+          <MerchandiseHierarchy ID="Merchandise" r10Ex:HierarchyPath="1_09_5080@2_09_1540@3_09_353">3_09_353</MerchandiseHierarchy>
+          <MerchandiseHierarchy ID="Tax">0.00</MerchandiseHierarchy>
+          <ItemID Type="X:EAN">99707</ItemID>
+          <POSIdentity>
+            <POSItemID>1296990</POSItemID>
+          </POSIdentity>
+          <Description r10Ex:Culture="en-GB">SEED/HONEY BREAD    </Description>
+          <Description TypeCode="Long" r10Ex:Culture="en-GB">JS SWEET SEED AND HONEY BREAD</Description>
+          <ExtendedAmount Currency="GBP">1.99</ExtendedAmount>
+          <Quantity EntryMethod="Scanned" UnitOfMeasureCode="EA" Units="1">1</Quantity>
+          <ItemLink>3</ItemLink>
+        </Sale>
+        <ScanData>99707</ScanData>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:42.5136307+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:42.5136307+01:00</EndDateTime>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:43.3868899+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:43.3868899+01:00</EndDateTime>
+        <TotalKey xmlns="http://www.Retalix.com/Extensions" Type="SubTotal">
+          <Total TotalType="TransactionGrossAmount">3.98</Total>
+          <Total TotalType="TransactionNetAmount">3.98</Total>
+          <Total TotalType="TransactionPurchaseQuantity">2</Total>
+        </TotalKey>
+      </LineItem>
+      <LineItem EntryMethod="Keyed">
+        <Tender TenderType="Voucher">
+          <Amount Currency="GBP">3.98</Amount>
+          <Cashback Currency="GBP">0</Cashback>
+          <Voucher>
+            <ExpirationDate>9999-12-31</ExpirationDate>
+          </Voucher>
+          <TenderID>5</TenderID>
+          <r10Ex:TenderDescription>VOUCHER</r10Ex:TenderDescription>
+          <r10Ex:IsAutoReconcile>True</r10Ex:IsAutoReconcile>
+        </Tender>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2016-08-23T09:49:53.5114219+01:00</BeginDateTime>
+        <EndDateTime>2016-08-23T09:49:53.5114219+01:00</EndDateTime>
+        <OperatorBypassApproval>
+          <SequenceNumber>1</SequenceNumber>
+          <ApproverID OperatorName="Cashier 9009" OperatorType="Supervisor">0206-9009</ApproverID>
+          <Description>VoucherSCOAggSPRequired</Description>
+          <BusinessRuleManager xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <BusinessRule RuleName="VoucherSCOAggSPRequired">
+              <BusinessAction ActionType="ApprovalRequired" IsApproved="Yes" MessageName="SupervisorAuth"/>
+            </BusinessRule>
+          </BusinessRuleManager>
+        </OperatorBypassApproval>
+      </LineItem>
+      <LineItem>
+        <Tax r10Ex:Imposition="A">
+          <SequenceNumber>1</SequenceNumber>
+          <TaxAuthority>VAT</TaxAuthority>
+          <TaxableAmount Currency="GBP" TaxIncludedInTaxableAmountFlag="true">3.98</TaxableAmount>
+          <Amount Currency="GBP">0.00</Amount>
+          <Percent>0.0000</Percent>
+          <TaxRuleID>2</TaxRuleID>
+          <TaxGroupID>1</TaxGroupID>
+        </Tax>
+        <SequenceNumber>10</SequenceNumber>
+      </LineItem>
+      <Total CurrencyCode="GBP">3.98</Total>
+      <Total CurrencyCode="GBP" TotalType="TransactionNetAmount">3.98</Total>
+      <Total TotalType="TransactionPurchaseQuantity">2</Total>
+      <Total TotalType="TransactionPurchaseQuantity" TypeCode="Return">0</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionTaxIncluded">0.00</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionTaxSurcharge">0</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionTaxFee">0</Total>
+      <Total CurrencyCode="GBP" TotalType="X:ItemTaxFee">0</Total>
+      <Total CurrencyCode="GBP" TotalType="TransactionTotalSavings">0</Total>
+      <Total CurrencyCode="GBP" TotalType="TransactionGrandAmount">3.98</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionTotalVoidAmount">3.98</Total>
+      <Total TotalType="X:TransactionTotalVoidCount">2</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionTotalReturnAmount">0</Total>
+      <Total CurrencyCode="GBP" TotalType="TransactionTaxExemptAmount">0</Total>
+      <Total CurrencyCode="GBP" TotalType="TransactionTenderApplied">3.98</Total>
+      <Total CurrencyCode="GBP" TotalType="X:CashbackTotalAmount">0</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionMerchandiseAmount">3.98</Total>
+      <Total CurrencyCode="GBP" TotalType="X:TransactionNonMerchandiseAmount">0</Total>
+      <Total CurrencyCode="GBP" TotalType="X:NonResettableGrandTotal">4336.40</Total>
+      <Total CurrencyCode="GBP" TotalType="X:PreviousNonResettableGrandTotal">4302.57</Total>
+      <Customer r10Ex:IsAuthenticatedOffline="False">
+        <Name/>
+      </Customer>
+      <TaxDefinitions xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <TaxAuthority>
+          <AuthorityId>1</AuthorityId>
+          <Descriptions>
+            <Description Culture="en-GB">VAT</Description>
+          </Descriptions>
+        </TaxAuthority>
+        <TaxRate>
+          <RateId>2</RateId>
+          <Type>Tax</Type>
+          <AuthorityId>1</AuthorityId>
+          <Descriptions>
+            <Description Culture="en-GB">0.00%</Description>
+          </Descriptions>
+          <IsIncluded>true</IsIncluded>
+          <TaxCalculatedMethodPercent>
+            <Value>0.0000</Value>
+            <ImpositionId>A</ImpositionId>
+          </TaxCalculatedMethodPercent>
+          <TaxIndicator>A</TaxIndicator>
+          <RoundingType>Standard</RoundingType>
+          <CouponReducesTaxationAmount>false</CouponReducesTaxationAmount>
+        </TaxRate>
+      </TaxDefinitions>
+      <TransactionMeasures xmlns="http://www.Retalix.com/Extensions" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ItemRingTime>
+          <Current>13</Current>
+          <BusinessDayDateTotal>13</BusinessDayDateTotal>
+        </ItemRingTime>
+        <SecureTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </SecureTime>
+        <IdleTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </IdleTime>
+        <TenderTime>
+          <Current>0</Current>
+          <BusinessDayDateTotal>0</BusinessDayDateTotal>
+        </TenderTime>
+        <OtherTime>
+          <Current>9</Current>
+          <BusinessDayDateTotal>9</BusinessDayDateTotal>
+        </OtherTime>
+        <SignOnTime>
+          <Current>22</Current>
+          <BusinessDayDateTotal>22</BusinessDayDateTotal>
+        </SignOnTime>
+      </TransactionMeasures>
+    </RetailTransaction>
+    <BusinessDayDate>2016-08-23</BusinessDayDate>
+    <BeginDateTime>2016-08-23T09:48:57.3297931+01:00</BeginDateTime>
+    <EndDateTime>2016-08-23T09:49:53.7155731+01:00</EndDateTime>
+  </Transaction>
+</POSLog>

@@ -1,0 +1,45 @@
+/*
+ * Dashboard
+ */
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+
+
+.navbar-brand-text {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 2em;
+  line-height: 20px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+/*
+ * Buttons
+ */
+
+
+.btn-outline-success {
+  color: #F68220;
+  background-image: none;
+  background-color: transparent;
+  border-color: #F68220;
+}
