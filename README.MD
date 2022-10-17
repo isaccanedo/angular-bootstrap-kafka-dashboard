@@ -16,7 +16,7 @@ crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configu
 2. Execute npm start para iniciar o aplicativo de amostra.
 
 
-## Configuration files
+## Arquivos de configuração
 
 - domain.config.json - this is the list of the domain for which we can a data feed.
 - conf folder - these are the properties for defining the data endpoint source, data connection adapter and sink which is the target to copy data to.
