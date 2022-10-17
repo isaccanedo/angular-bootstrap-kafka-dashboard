@@ -18,7 +18,7 @@ crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configu
 
 ## Arquivos de configuração
 
-- domain.config.json - this is the list of the domain for which we can a data feed.
+- domain.config.json - esta é a lista do domínio para o qual podemos um feed de dados.
 - conf folder - these are the properties for defining the data endpoint source, data connection adapter and sink which is the target to copy data to.
 
 
