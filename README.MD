@@ -48,7 +48,7 @@ Execute o tópico de doação do consumidor…..
 /opt/kafka_2.10-0.9.0.1/bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic stores
 ```
 
-The JSConnect source adpaters code will need to be run to send message to the store topic. We need to write some code to send mock messages to this topic.
+O código dos adaptadores de origem JSConnect precisará ser executado para enviar mensagem para o tópico da loja. We need to write some code to send mock messages to this topic.
 
 
 
