@@ -10,7 +10,7 @@ Este é um front-end fracamente acoplado que ficará no topo dos serviços de da
 inscrição. Ele exibirá a entrada ao vivo e permitirá que os usuários finais monitorem os feeds de dados e
 crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configuração.
 
-## Running the UI
+## Executando a IU
 
 1. Install npm packages.
 2. Run npm start to launch the sample application.
