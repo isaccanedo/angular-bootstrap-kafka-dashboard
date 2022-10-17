@@ -5,10 +5,10 @@ Angular 4 and Bootstrap 3 dashboard to display live status of data streams from 
 
 ## Visão geral
 
-Dashboard to display data ingestion pipeline live status for each incoming data feed.
-This is a loosely coupled front-end that will sit on top of dpp-source-adapter backend data services
-application. It will display live incoming and allow end-users to monitor data feeds and
-build new ingestion pipelines without have write any JSON in the configuration files.
+Painel para exibir o status ao vivo do pipeline de ingestão de dados para cada feed de dados de entrada.
+Este é um front-end fracamente acoplado que ficará no topo dos serviços de dados de back-end dpp-source-adapter
+inscrição. Ele exibirá a entrada ao vivo e permitirá que os usuários finais monitorem os feeds de dados e
+crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configuração.
 
 ## Running the UI
 
