@@ -12,7 +12,7 @@ crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configu
 
 ## Executando a IU
 
-1. Install npm packages.
+1.Instale os pacotes npm.
 2. Run npm start to launch the sample application.
 
 
