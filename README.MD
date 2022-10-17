@@ -53,7 +53,7 @@ O código dos adaptadores de origem JSConnect precisará ser executado para envi
 
 ## Lista de tarefas, desafios e épicos do Framework
 
-Build using Bootstrap v3, Node v6, Angular v2.4
+Compile usando Bootstrap v3, Node v6, Angular v2.4
 
 Do not use JQuery code.
 Stick to Bootstrap style css as close as possible.
