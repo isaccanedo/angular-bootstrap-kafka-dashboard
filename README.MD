@@ -43,7 +43,7 @@ Obtenha a porta configurada no Zookeeper
 /opt/kafka/config/zooker.properties
 ```
 
-Run the consumer giving topic…..
+Execute o tópico de doação do consumidor…..
 ```
 /opt/kafka_2.10-0.9.0.1/bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic stores
 ```
