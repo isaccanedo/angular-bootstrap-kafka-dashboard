@@ -25,7 +25,7 @@ crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configu
 ## Docker
 
 Há uma imagem docker para executar o corretor Kafka em seu localhost:2181.
-To run install docker on your computer. Then run the following commands.
+Para executar o docker de instalação em seu computador. Then run the following commands.
 
 ```
 docker-compose up
