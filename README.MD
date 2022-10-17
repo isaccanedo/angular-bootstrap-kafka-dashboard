@@ -3,7 +3,7 @@
 Angular 4 and Bootstrap 3 dashboard to display live status of data streams from Kafka broker
 
 
-## Overview
+## Visão geral
 
 Dashboard to display data ingestion pipeline live status for each incoming data feed.
 This is a loosely coupled front-end that will sit on top of dpp-source-adapter backend data services
