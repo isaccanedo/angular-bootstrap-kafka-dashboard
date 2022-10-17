@@ -51,7 +51,7 @@ Execute o tópico de doação do consumidor…..
 O código dos adaptadores de origem JSConnect precisará ser executado para enviar mensagem para o tópico da loja. Precisamos escrever algum código para enviar mensagens simuladas para este tópico.
 
 
-## Todo List, Framework challenges and epics
+## Lista de tarefas, desafios e épicos do Framework
 
 Build using Bootstrap v3, Node v6, Angular v2.4
 
