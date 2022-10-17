@@ -55,8 +55,8 @@ O código dos adaptadores de origem JSConnect precisará ser executado para envi
 
 Compile usando Bootstrap v3, Node v6, Angular v2.4
 
-Do not use JQuery code.
-Stick to Bootstrap style css as close as possible.
+Não use código JQuery.
+Atenha-se ao CSS estilo Bootstrap o mais próximo possível.
 
 
 ### [EPIC] Domain page (High priority)
