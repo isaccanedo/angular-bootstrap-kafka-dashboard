@@ -35,7 +35,7 @@ docker ps
 docker exec -it dppsourceadapters_kafka_1 bash
 ```
 
-For storeslocation from the storeslocations.conf file create a topic…..
+Para storeslocation do arquivo storeslocations.conf crie um tópico…..
 
 Then in the docker Kafka vm:
 Get the port configured in Zookeeper
