@@ -24,7 +24,7 @@ crie novos pipelines de ingestão sem gravar nenhum JSON nos arquivos de configu
 
 ## Docker
 
-There is a docker image to run Kafka broker on your localhost:2181.
+Há uma imagem docker para executar o corretor Kafka em seu localhost:2181.
 To run install docker on your computer. Then run the following commands.
 
 ```
